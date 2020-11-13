@@ -8,6 +8,8 @@ authors = ["Chengwei Wang <cw3210@columbia.edu>"]
 python = "3.8.6"
 
 [tool.poetry.dev-dependencies]
+Sphinx = "^3.3.1"
+sphinxcontrib-napoleon = "^0.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
