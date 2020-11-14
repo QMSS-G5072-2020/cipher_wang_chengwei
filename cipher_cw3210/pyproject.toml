@@ -3,6 +3,7 @@ name = "cipher_cw3210"
 version = "0.1.0"
 description = "Encryption and decryption tools"
 authors = ["Chengwei Wang <cw3210@columbia.edu>"]
+homepage = "https://github.com/QMSS-G5072-2020/cipher_wang_chengwei"
 
 [tool.poetry.dependencies]
 python = "3.8.6"
@@ -12,6 +13,7 @@ Sphinx = "^3.3.1"
 sphinxcontrib-napoleon = "^0.7"
 pytest = "^6.1.2"
 pytest-cov = "^2.10.1"
+twine = "^3.2.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
